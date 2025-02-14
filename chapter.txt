@@ -1,1 +1,1 @@
-{"Education":1,"Charity":3,"Recreational":2,"Relaxation":1,"Busywork":2,"Social":1,"DIY":4,"Music":3}
+name = {"Education":1,"Charity":3,"Recreational":2,"Relaxation":1,"Busywork":2,"Social":1,"DIY":4,"Music":3}
